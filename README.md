@@ -1,10 +1,15 @@
-# iDetector
-A very simple App to check if a App is installed or not (Requires their Bundle ID or UUID)
+# iChecker
+**A very simple App to check if a App is installed or if a File Path is valid.**
+- (Checking a **Bundle ID** requires **18.4.1 or lower**)
+- (Checking a **File Path** works on the **latest OS version** and will probably **never** get "patched" since it **doesn´t** uses a exploit)
 
-Bundle IDs can be found through the following ways:
+# Bundle IDs can be found through the following ways:
 - https://vexelon.net/asws 
 - https://github.com/joeblau/apple-bundle-identifiers
 
-This app uses CVE-2025-31207 which was patched in 18.5 (which means it only works on iOS 18.4.1 and below)
+# Credits
+**For checking the Bundle IDs**
 - (Technical Analysis) https://blog.verichains.io/p/technical-analysis-improper-use-of
-- (Security Content of iOS 18.5) https://support.apple.com/en-us/122404
+
+**For checking the File Path**
+- @34306
