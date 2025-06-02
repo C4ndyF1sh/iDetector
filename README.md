@@ -1,5 +1,5 @@
 # iDetector
-A very simple App to check if a App is installed or not (Requires their Bundle ID)
+A very simple App to check if a App is installed or not (Requires their Bundle ID or UUID)
 
 Bundle IDs can be found through the following ways:
 - https://vexelon.net/asws 
