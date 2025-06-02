@@ -8,8 +8,8 @@
 - https://github.com/joeblau/apple-bundle-identifiers
 
 # Credits
-**For checking the Bundle IDs**
+**Bundle ID Checking**
 - (Technical Analysis) https://blog.verichains.io/p/technical-analysis-improper-use-of
 
-**For checking the File Path**
+**File Path Checking**
 - @34306
